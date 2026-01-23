@@ -1,6 +1,14 @@
-Code<br />
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,unity,git,vscode)](/)<br />
-Design<br />
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,blender,figma,obsidian)](/)<br />
-Various<br />
-[![My Skills](https://skillicons.dev/icons?i=linux,apple,windows,raspberrypi,wordpress,jira)](/)
+🍋 lemonspurple sucks at...  
+- Coding in C#, Python, MicroPython  
+- Unity3D, Blazor, tkinter  
+- 2D art (raster/bézier), UI/UX
+- 3D (Blender/ZBrush)
+- Soldering, PCB (especially SMD)
+- Git, Confluence, Jira
+- HTML / CSS
+- Learning React.js
+- Co- and contravariant constraints
+- Malenia, Blade of Miquella
+- Linux, Windows, Mac
+- Microscopy, Photography
+- [Blogging](https://lemonspurple.github.io/)
