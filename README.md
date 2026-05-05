@@ -1,10 +1,10 @@
 🍋 lemonspurple sucks at...  
-- Coding in C#, Python, MicroPython  
-- Unity3D, Blazor, tkinter  
-- 2D art (raster/bézier), UI/UX
+- Coding C#, Python, MicroPython, TS 
+- Unity3D, Blazor, Avalonia, tkinter  
+- 2D art (Raster/Béziers), UI/UX
 - 3D (Blender/ZBrush)
-- Soldering, PCB (especially SMD)
-- Git, Confluence, Jira
+- Soldering, PCB/SMD, except tombstoning
+- Git, Confluence, Jira, Azure DevOps
 - HTML / CSS
 - Learning React.js
 - Co- and contravariant constraints
