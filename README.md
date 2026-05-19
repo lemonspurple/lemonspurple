@@ -1,14 +1,14 @@
 🍋 lemonspurple sucks at...  
-- Coding C#, Python, MicroPython, TS 
-- Unity3D, Blazor, Avalonia, tkinter  
+- Coding C#, Python, TS/JS 
+- Unity3D, Blazor, Avalonia, tkinter
 - 2D art (Raster/Béziers), UI/UX
 - 3D (Blender/ZBrush)
 - Soldering, PCB/SMD, except tombstoning
 - Git, Confluence, Jira, Azure DevOps
-- HTML / CSS
+- HTML / CSS / XAML
 - Learning React.js
 - Co- and contravariant constraints
 - Malenia, Blade of Miquella
 - Linux, Windows, Mac
-- Microscopy, Photography
+- Microscopy, [Photography](https://flickr.com/photos/203446414@N06/)
 - [Blogging](https://lemonspurple.github.io/)
