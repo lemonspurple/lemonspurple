@@ -1,11 +1,11 @@
-🍋 lemons sucks at...  
+🍋 l3mons sucks at...  
 - Coding C#, Python, TS/JS 
 - Unity3D, Blazor, Avalonia, tkinter
 - 2D art (Raster/Béziers), UI/UX
 - 3D (Blender/ZBrush)
 - Soldering, PCB/SMD, except tombstoning
 - Git, Confluence, Jira, Azure DevOps
-- HTML / CSS / XAML
+- HTML / CSS / XAML / SQL / CICD
 - Learning React.js
 - Co- and contravariant constraints
 - Malenia, Blade of Miquella
