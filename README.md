@@ -6,6 +6,6 @@
 - Unity3D, Blazor, Avalonia, tkinter
 - Concept Art & UI/UX
 - Low poly 3D (Blender/ZBrush)
-- Soldering. Especially SMD (except Tombstoning)
+- Soldering (especially SMD, except tombstoning)
 - [Photography](https://flickr.com/photos/203446414@N06/) (with my Minolta x370)
 - [Blogging](https://lemonspurple.github.io/) (Mostly gamedev + intentionality)
