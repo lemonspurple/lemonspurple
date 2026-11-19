@@ -1,7 +1,7 @@
 🍋 l3mons sucks at...  
 - C#, Python, TS/JS 
 - [Scanning Tunneling Microscopy](https://github.com/lemonspurple/DIY-Scanning-Tunneling-Microscope)
-- [Mutating DNA digitally](https://github.com/lemonspurple/mutateBinary) (and synthesizing it)
+- [Mutating DNA](https://github.com/lemonspurple/mutateBinary) (+oligonucleotide synthesis)
 - Unity3D (GameDev), Blazor, Avalonia, tkinter
 - Concept Art & UI/UX
 - Low poly 3D (Blender/ZBrush)
